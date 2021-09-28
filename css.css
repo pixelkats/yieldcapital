@@ -28,9 +28,24 @@ a {
 
 html {
   margin: 0 auto;
-  width: 700px;
+  width: 750px;
 }
+
 
 a:visited { 
   text-decoration: none;
  }
+
+ html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header3 {
+  text-align: left;
+}
+
+@media only screen and (max-width: 400px) {
+  html {
+    width: 100%;
+  }
+}
