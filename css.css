@@ -47,3 +47,14 @@ html {
     width: 100%;
   }
 }
+
+.redText
+    {
+        color:red;
+        font-weight:bold;
+    }
+    .greenText
+    {
+        color:green;
+        font-weight:bold;
+    }
