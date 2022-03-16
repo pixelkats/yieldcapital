@@ -58,3 +58,7 @@ html {
         color:green;
         font-weight:bold;
     }
+
+    li { 
+      margin-bottom: 3px;  
+   }
